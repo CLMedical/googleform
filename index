@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Styled Google Form</title>
+    <link rel="stylesheet" href="style.css"> <!-- ลิงค์ไปยังไฟล์ CSS -->
+</head>
+<body>
+    <div class="form-container">
+        <h1>แบบฟอร์มของเรา</h1>
+        <iframe src="<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfS3QasxTgpiXIoEx1tVMtEBnhtHTLzLPPAl_4GUhwFeTjpGQ/viewform?embedded=true" frameborder="0" marginheight="0" marginwidth="0">กำลังโหลด…</iframe>
+    </div>
+</body>
+</html>
